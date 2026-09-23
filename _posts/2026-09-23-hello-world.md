@@ -1,7 +1,6 @@
 ---
 title: Hello, world
 date: 2026-09-23 12:00:00 +0300
-categories: [Personal]
 tags: [introduction]
 description: An introduction to Nathaniel Bubis and this blog.
 ---

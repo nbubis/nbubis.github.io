@@ -1,6 +1,6 @@
 ---
 icon: fas fa-info-circle
-order: 4
+order: 3
 ---
 
 Hi, I’m Nathaniel Bubis. I enjoy working through problems where mathematics and software meet, especially geometry and computer vision.
